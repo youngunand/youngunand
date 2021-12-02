@@ -1,6 +1,6 @@
 - Hi, I’m @youngunand
 
-- I’m interested in Programming, Data Science and Statistics
+- I’m interested in Programming, Data Science, Science in general and Statistics
 - email: andreas.herzinger02@gmail.com
 
 <!---
